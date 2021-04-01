@@ -1,0 +1,47 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows></Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls />
+  <EntityDataProviders />
+  <CanvasApps>
+    <CanvasApp>
+      <Name>djimlab_flooringestimatesapp_8dccf</Name>
+      <AppVersion>2021-03-30T10:15:22Z</AppVersion>
+      <Status>Ready</Status>
+      <CreatedByClientVersion>3.21033.41.0</CreatedByClientVersion>
+      <MinClientVersion>0.0.0.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"20210330T082159Z-3.21033.41.0","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.21031.41","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+      <IsCdsUpgraded>0</IsCdsUpgraded>
+      <GalleryItemId xsi:nil="true"></GalleryItemId>
+      <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+      <DisplayName>flooring-estimates app</DisplayName>
+      <Description xsi:nil="true"></Description>
+      <CommitMessage>Enregistrée par Test Studio</CommitMessage>
+      <Publisher></Publisher>
+      <AuthorizationReferences>[]</AuthorizationReferences>
+      <ConnectionReferences>{"13764519-4c1b-4f44-b85e-984545845373":{"id":"/providers/microsoft.powerapps/apis/shared_excel","displayName":"Excel","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1440/1.0.1440.2331/excel/icon.png","dataSources":["FlooringEstimates"],"dependencies":["849379f6-13a7-4a28-ae96-5ebe7060e4ae"],"dependents":[],"parameterHints":{"849379f6-13a7-4a28-ae96-5ebe7060e4ae":{"value":"fileSource"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"3F2F5C4250FE400F!295":{"dataSources":{"FlooringEstimates":{"tableName":"FlooringEstimates"}}}},"apiTier":"Standard"},"849379f6-13a7-4a28-ae96-5ebe7060e4ae":{"id":"/providers/microsoft.powerapps/apis/shared_onedrive","displayName":"OneDrive","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1438/1.0.1438.2324/onedrive/icon.png","dataSources":[],"dependencies":[],"dependents":["13764519-4c1b-4f44-b85e-984545845373"],"parameterHints":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+      <DatabaseReferences>{}</DatabaseReferences>
+      <AppComponents>[]</AppComponents>
+      <AppComponentDependencies>[]</AppComponentDependencies>
+      <CanvasAppType>0</CanvasAppType>
+      <BypassConsent>0</BypassConsent>
+      <AdminControlBypassConsent>0</AdminControlBypassConsent>
+      <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+      <IsCustomizable>1</IsCustomizable>
+      <BackgroundImageUri>/CanvasApps/djimlab_flooringestimatesapp_8dccf_BackgroundImageUri</BackgroundImageUri>
+      <DocumentUri>/CanvasApps/djimlab_flooringestimatesapp_8dccf_DocumentUri.msapp</DocumentUri>
+    </CanvasApp>
+  </CanvasApps>
+  <Languages>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>
